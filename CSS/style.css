@@ -1,0 +1,135 @@
+body {
+
+    margin: 0px;
+}
+
+header {
+
+    background-color: aqua;
+}
+
+
+.wrapper {
+    width: 1200px;
+    margin-left: 100px;
+    margin-top: 21px;
+}
+
+.mylogo img {
+    width: 14%;
+    float: left;
+    height: 66px;
+}
+
+nav {
+    width: 60%;
+    float: left;
+}
+
+nav button {
+
+    width: 20%;
+
+    float: right;
+
+    padding: 18px 31px;
+
+    margin-top: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    float: left;
+}
+
+nav ul li {
+
+    display: inline-block;
+
+}
+
+nav ul li a {
+
+    text-decoration: none;
+
+    padding: 22px 43px;
+
+    font-family: fantasy;
+
+    font-size: larger;
+    text-transform: capitalize;
+}
+
+nav button {
+
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+
+.cv{
+
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+
+nav ul li :hover {
+
+    color: blue;
+    letter-spacing: 2px;
+}
+
+.Information{
+
+padding: 126px 19px 25px 0px;
+
+
+font-family: fantasy;
+}
+
+.column{
+
+    width: 50%;
+    float: right;
+}
+
+.myimage img{
+
+display: block;
+margin: auto;
+max-width: 300px;
+
+border-radius: 600px;
+}
+
+.myinfo{
+    
+    width: 0%;
+    float: left;
+}
+
+.blog1{
+
+    margin: auto;
+}
+.col{
+
+    width: 33.33%;
+    float: left;
+}
+.blog2{
+
+    margin-top: 100px;
+}
+.blog2 img{}
+.blog2 h3{}
+.blog2 p{}
+.blog2 button{
+    float: left;
+
+    padding: 18px 31px;
+
+    margin-top: 10px;
+    font-family: fantasy;
+}
